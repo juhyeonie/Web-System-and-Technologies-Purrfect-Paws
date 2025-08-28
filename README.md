@@ -8,15 +8,23 @@ Purrfect Paws is a website dedicated to providing information about different do
 - Built as part of our Web Systems and Technologies course project
 
 🎯 Purpose
+
 This project aims to create an informative and accessible resource for Filipino pet owners and animal enthusiasts, while applying core concepts in web development and responsive design.
 
 🛠️ Tech Stack
+
 HTML
+
 CSS
+
 JavaScript
 
 👨‍💻 Developers
+
 Justine Pelgone
+
 Aedri Mangulabnan 
+
 Benjo Maromas 
+
 Yzekeil Viñas 
