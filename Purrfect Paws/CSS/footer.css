@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+.footer-container {
+    position: sticky;
+    top: 100vh;
+    justify-items: center;
+    padding: 10px;
+    height: auto;
+    max-width: 100%;
+    background-color: #b0421d;
+    box-sizing: border-box;
+    
+}
+.copyright-text {
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.footer-navlink :hover {
+    color: gray;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px;
+}
+
+.footer-navlink {
+    display: block;
+    justify-items: center;
+}
+

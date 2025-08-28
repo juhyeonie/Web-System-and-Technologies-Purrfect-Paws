@@ -1,0 +1,63 @@
+/* Navigation Bar */
+
+.header-set {
+    display: block;
+    height: max-content;
+    background-color: rgb(236, 202, 190);
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 15px;
+    position: relative;
+    text-decoration: none;
+}
+
+nav.navbar ul.navlist li a {
+    display: block;
+    padding: 20px 25px;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav.navbar ul.navlist li {
+    text-decoration: none;
+}
+
+nav.navbar ul.navlist li:hover .dropdown-box {
+    display: block;
+    background-color: #faebd7;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 0 rgba(0, 0, 0, 0.19);
+    z-index: 1000;
+}
+
+nav.navbar ul.navlist li a:hover {
+    color: gray;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 5px;
+}
+
+.dropdown-box {
+    display: none;
+    position: absolute;
+    padding: 0;
+    background-color: #faebd7;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color: #faebd7;
+    box-shadow: 0 0px 8px 8px rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+    z-index: 1000;
+}
+
+
+.logo img {
+    z-index: -1;
+}
+
+
