@@ -20,4 +20,5 @@ This project aims to create an informative and accessible resource for Filipino 
 - Justine Pelgone
 - Aedri Mangulabnan 
 - Benjo Maromas 
-- Yzekeil Viñas 
+- Yzekeil Viñas
+- Joseph Armia Jr.
